@@ -1,0 +1,22 @@
+body {
+  background: #f6f6f6;
+  margin: 0;
+  font-family: sans-serif;
+}
+#container {
+  display: flex;
+  gap: 220px; /* Increase gap for more space */
+  padding: 32px;
+}
+#instructions {
+  margin-top: 40px;
+  width: 300px;
+  min-width: 300px;
+}
+#canvas-holder {
+  width: 800px;
+  height: 600px;
+}
+h2 {
+  margin-top: 0;
+}
